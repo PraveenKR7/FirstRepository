@@ -1,24 +1,24 @@
 package com.github;
 
 public class FirstGit {
-	
+
 	public void method1() {
-		// TODO Auto-generated method stub
-
+		System.out.println("1");
 	}
-	
+
 	public void method2() {
-		// TODO Auto-generated method stub
-
+		System.out.println("2");
 	}
-	
+
 	public void method3() {
-		// TODO Auto-generated method stub
-
+		System.out.println("3");
 	}
-	
-	public void method4() {
-		// TODO Auto-generated method stub
 
+	public void method4() {
+		System.out.println("4");
+	}
+
+	public void method5() {
+		System.out.println("5");
 	}
 }
